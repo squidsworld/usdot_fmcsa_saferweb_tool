@@ -8,5 +8,16 @@ ex:
 
 python3 saferweb_parser.py 3706
 
+## Note:
+
+This uses curl, and os.system() -- Originally written on Ubuntu 22.04. Presumes curl is installed and read/write permissions in the directory you're running it in.
+
+the command: 
+  
+  curl -s "http://...html" > temporary_html.html
+  
+ Will need to run on your OS.
+  
+
 
 
