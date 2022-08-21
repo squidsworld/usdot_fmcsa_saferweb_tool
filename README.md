@@ -10,7 +10,7 @@ python3 saferweb_parser.py 3706
 
 ## Note:
 
-This uses curl, and os.system() -- Originally written on Ubuntu 22.04. Presumes curl is installed and read/write permissions in the directory you're running it in.
+This uses curl, and os.system() -- Originally written on Ubuntu 22.04. Presumes curl and python are installed and you have read/write permissions in the directory you're running it from.
 
 the command: 
   
