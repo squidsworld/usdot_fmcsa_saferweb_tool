@@ -23,7 +23,7 @@ Run the pythonscript with input argument of USDOT number for the company you wan
 
 ex:
 
-python3 saferweb_parser.py 3706
+python saferweb_parser.py 3706
 
 ## Note:
 
